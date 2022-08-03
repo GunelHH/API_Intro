@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F784B6F2-D3CD-4978-BDEC-482915483A56}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Intro_API/Controllers/CarsController.cs">
+    <Files>
+      <File FileName="Intro_API/Controllers/CarsController.cs" Line="103" Column="2" />
+      <File FileName="Intro_API/DAL/APIDbContext.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Intro_API" expanded="True">
+            <Node name="Intro_API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Intro__API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
