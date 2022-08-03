@@ -1,9 +1,10 @@
 ﻿using System;
+using Intro_API.Models.Base;
+
 namespace Intro_API.Models
 {
-    public class Car
+    public class Car:BaseEntity
     {
-        public int Id { get; set; }
 
         public string Brand { get; set; }
 
@@ -12,6 +13,10 @@ namespace Intro_API.Models
         public decimal Price { get; set; }
 
         public string Color { get; set; }
+
+        public int? EngineId { get; set; }
+
+        public Engine Engine { get; set; }
     }
 }
 

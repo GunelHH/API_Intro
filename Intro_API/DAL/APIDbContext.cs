@@ -1,4 +1,5 @@
 ﻿using System;
+using Intro_API.DAL.Configurations;
 using Intro_API.Models;
 using Microsoft.EntityFrameworkCore;
 
@@ -10,8 +11,15 @@ namespace Intro_API.DAL
         {
 
         }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration(new CarConfiguration());
+        }
+
         public DbSet<Car> Cars { get; set; }
 
+        public DbSet<Engine> Engines { get; set; }
     }
 }
 

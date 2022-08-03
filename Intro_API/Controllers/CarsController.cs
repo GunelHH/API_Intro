@@ -19,30 +19,30 @@ namespace Intro_API.Controllers
         {
             this._context = context;
         }
-        private List<Car> _cars = new List<Car>()
-        {
-            new Car
-            {
-                Brand="Mercedes",
-                Model="S-500",
-                Price=130000,
-                Color="White"
-            },
-            new Car
-            {
-                Brand="BMW",
-                Model="F-90",
-                Price=170000,
-                Color="Red"
-            },
-            new Car
-            {
-                Brand="Lamborghini",
-                Model="Urus",
-                Price=300000,
-                Color="Yellow"
-            },
-        };
+        //private List<Car> _cars = new List<Car>()
+        //{
+        //    new Car
+        //    {
+        //        Brand="Mercedes",
+        //        Model="S-500",
+        //        Price=130000,
+        //        Color="White"
+        //    },
+        //    new Car
+        //    {
+        //        Brand="BMW",
+        //        Model="F-90",
+        //        Price=170000,
+        //        Color="Red"
+        //    },
+        //    new Car
+        //    {
+        //        Brand="Lamborghini",
+        //        Model="Urus",
+        //        Price=300000,
+        //        Color="Yellow"
+        //    },
+        //};
         
 
         [HttpGet]

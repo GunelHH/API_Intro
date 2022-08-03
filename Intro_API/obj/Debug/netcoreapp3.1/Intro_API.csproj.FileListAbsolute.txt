@@ -130,3 +130,7 @@
 /Users/gunelhesenova/Desktop/Intro_API/Intro_API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/gunelhesenova/Desktop/Intro_API/Intro_API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/gunelhesenova/Desktop/Intro_API/Intro_API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/gunelhesenova/Desktop/Intro_API/Intro_API/obj/Debug/netcoreapp3.1/Intro_API.MvcApplicationPartsAssemblyInfo.cs
+/Users/gunelhesenova/Desktop/Intro_API/Intro_API/bin/Debug/netcoreapp3.1/FluentValidation.dll
+/Users/gunelhesenova/Desktop/Intro_API/Intro_API/bin/Debug/netcoreapp3.1/FluentValidation.AspNetCore.dll
+/Users/gunelhesenova/Desktop/Intro_API/Intro_API/bin/Debug/netcoreapp3.1/FluentValidation.DependencyInjectionExtensions.dll

@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "EKoK1RH13orBXLZxo2fFrU3d7xu9+H542hAen2KOgk86y4eRwFgsV96rfY8A2KibGpTcWCRgjsjvH+GcKr9lkA==",
+  "dgSpecHash": "jJXAzxlba+EZcXfnluhr+l1sHOqnk7N0GfNGnbY+vjN31Q56YeMVk6aAOrVv8rJY7RKjoikkGc+YFRcQ9mANHQ==",
   "success": true,
   "projectFilePath": "/Users/gunelhesenova/Desktop/Intro_API/Intro_API/Intro_API.csproj",
   "expectedPackageFiles": [
+    "/Users/gunelhesenova/.nuget/packages/fluentvalidation/11.1.0/fluentvalidation.11.1.0.nupkg.sha512",
+    "/Users/gunelhesenova/.nuget/packages/fluentvalidation.aspnetcore/11.1.2/fluentvalidation.aspnetcore.11.1.2.nupkg.sha512",
+    "/Users/gunelhesenova/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.1.0/fluentvalidation.dependencyinjectionextensions.11.1.0.nupkg.sha512",
     "/Users/gunelhesenova/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "/Users/gunelhesenova/.nuget/packages/microsoft.aspnetcore.razor/2.2.0/microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "/Users/gunelhesenova/.nuget/packages/microsoft.aspnetcore.razor.language/3.1.0/microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",
